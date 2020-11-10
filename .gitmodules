@@ -1,0 +1,3 @@
+[submodule "bottle-sample-app"]
+	path = bottle-sample-app
+	url = https://github.com/kurocode25/bottle-sample-app.git
