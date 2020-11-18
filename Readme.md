@@ -22,5 +22,10 @@
     import routes
 
     from pinpoint.Bottle import *
+
+    app = routes.app
+
+    app = PinPointMiddleWare(app)
+    ...
     ```
 
